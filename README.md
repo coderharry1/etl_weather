@@ -1,9 +1,9 @@
-# etl_weather ☁️
+# etl_weather 
 
-## Description 📝
+## Description 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline using Apache Airflow and Astro. It is designed to process weather data, although specific details about the data source, transformations, and loading destination are not available in the provided context. The pipeline automates the process of extracting data, transforming it into a usable format, and loading it into a data warehouse or data lake for analysis.
 
-## Table of Contents 📚
+## Table of Contents 
 1.  [Description](#description)
 2.  [Features](#features)
 3.  [Tech Stack](#tech-stack)
@@ -15,18 +15,18 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 9.  [Important Links](#important-links)
 10. [Footer](#footer)
 
-## Features ✨
+## Features 
 *   End-to-End ETL Pipeline: Orchestrates the complete data processing workflow.
 *   Airflow Integration: Uses Apache Airflow for scheduling and monitoring the pipeline.
 *   Astro Integration: Leverages Astro (presumably Astro SDK or a similar tool) to simplify Airflow DAG development. More information about astro needed
 *   Automated Data Processing: Automates the extraction, transformation, and loading of data.
 
-## Tech Stack 💻
+## Tech Stack 
 *   Apache Airflow: Workflow management platform.
 *   Astro: Framework/SDK for simplifying Airflow DAGs.
 *   Programming Language: (Inferred) Python (due to Airflow and Astro usage).
 
-## Installation 🛠️
+## Installation 
 Detailed installation instructions cannot be provided without specific dependencies or configuration files. However, a general guide is given below:
 
 1.  **Install Apache Airflow:**
@@ -53,7 +53,7 @@ Detailed installation instructions cannot be provided without specific dependenc
     pip install -r requirements.txt
     ```
 
-## Usage 🚀
+## Usage 
 1.  **Configure Airflow:**
     *   Set up the Airflow environment, including defining connections to data sources and destinations.
 2.  **Create Airflow DAGs:**
@@ -79,7 +79,7 @@ etl_weather/
 └── README.md
 ```
 
-## Contributing 🤝
+## Contributing 
 We welcome contributions to improve this project! Please follow these guidelines:
 
 1.  Fork the repository.
@@ -93,7 +93,7 @@ No license information was provided.
 ## Important Links 🔗
 *   [GitHub Repository](https://github.com/coderharry1/etl_weather)
 
-## Footer 📜
+## Footer 
 
 *   **Repository Name:** etl_weather
 *   **URL:** [https://github.com/coderharry1/etl_weather](https://github.com/coderharry1/etl_weather)
